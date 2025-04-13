@@ -22,6 +22,7 @@ This project aims to enhance early diagnosis of **Osteoporosis** using deep lear
 - `osteoporosis model.h5` – a basic model of CNN.
 - `Models (if needed contact me)` – Trained models (CNN, ResNet, VGG16, Ensembled model) is not included as it is more than 25 mb.
 - `README.md` – This documentation file.
+- `app.py` - This is the frontend of our project.
 
 ---
 
